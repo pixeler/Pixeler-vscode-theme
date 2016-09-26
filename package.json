@@ -1,0 +1,23 @@
+{
+    "name": "theme-pixeler",
+    "displayName": "Pixeler theme",
+    "description": "A theme for designers code lover.",
+    "version": "0.1.14",
+    "publisher": "Mahdi Khodadadi",
+    "engines": {
+        "vscode": "^1.4.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.svg",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Pixeler One Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pixeler-dark.tmTheme"
+            }
+        ]
+    }
+}
