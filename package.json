@@ -2,8 +2,8 @@
     "name": "theme-pixeler",
     "displayName": "Pixeler theme",
     "description": "A theme for designers code lover.",
-    "version": "0.1.14",
-    "publisher": "Mahdi Khodadadi",
+    "version": "0.3.0",
+    "publisher": "pixeler",
     "engines": {
         "vscode": "^1.4.0"
     },
