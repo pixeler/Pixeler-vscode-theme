@@ -1,7 +1,8 @@
-# Pixeler One Drak
+# Pixeler Drak theme for Visual studio code
 ## This theme base for Designer who love coding!
-این قالب را برای کد نویسی خودم در Visual Studio Code درست کرده بودم و گفتم شاید بهتر باشد با دیگران به اشتراک بگذارم.
-اگر نری در این باره داشتید با من درمیان بگذارید
+
+این قالب ای است که خودم برای توسعه کد استفاده می کنم و دوست داشتم با دیگران به اشتراک بگذارم.
+اگر نظری دارید خوشحال می شوم با بنده جهت بهتر شدن کار در میان بگذارید
 
 ##Install
 
@@ -10,10 +11,10 @@ press `ctl/command + shift + p` to launch the command palette then run
 ext install theme-pixeler
 ```
 ##Screen Shot
-![html screenshot](http://www.pixeler.ir/pixeler-one-dark.jpg)
+![dark screenshot](https://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-dark.png)
 
-![css screenshot](http://www.pixeler.ir/css-pixeler-dark.jpg)
+![ocean screenshot](https://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-ocean.png)
 
-![javascript screenshot](http://www.pixeler.ir/js-pixeler-theme.jpg)
+![light screenshot](https://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-light.png)
 
 **Enjoy!**
