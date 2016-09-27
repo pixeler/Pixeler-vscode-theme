@@ -1,6 +1,7 @@
 # Pixeler One Drak
-## This theme base for Designer who love coding"
-
+## This theme base for Designer who love coding!
+این قالب را برای کد نویسی خودم در Visual Studio Code درست کرده بودم و گفتم شاید بهتر باشد با دیگران به اشتراک بگذارم.
+اگر نری در این باره داشتید با من درمیان بگذارید
 
 ##Install
 

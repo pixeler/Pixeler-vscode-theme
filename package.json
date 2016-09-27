@@ -14,9 +14,19 @@
     "contributes": {
         "themes": [
             {
-                "label": "Pixeler One Dark",
+                "label": "Pixeler Dark",
                 "uiTheme": "vs-dark",
                 "path": "./themes/Pixeler-dark.tmTheme"
+            },
+            {
+                "label": "Pixeler Ocean",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Pixeler-ocean.tmTheme"
+            },
+            {
+                "label": "Pixeler light",
+                "uiTheme": "vs",
+                "path": "./themes/Pixeler-light.tmTheme"
             }
         ]
     }
