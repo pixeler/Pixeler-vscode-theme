@@ -12,10 +12,8 @@
 
 ## Intro 
 
-As a designer and software developer I coding for many years.
-Design spirit that I am writing code that would make it out alive.
-Pixeler theme and color that spirit that encourages me to enjoy coding.
-I would like to share it with you.
+As a designer and software developer I have been coding for years and I give soul to my code by design.
+Pixeler theme and its color helps me to turn coding to beautiful journey and that's why i want to share it with you
 
 ---
 ## Easy installation
