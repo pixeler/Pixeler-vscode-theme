@@ -4,13 +4,32 @@
     "description": "A theme for designers code lover.",
     "version": "0.5.0",
     "publisher": "pixeler",
+    	"author": {
+		"email": "me@pixeler.ir",
+		"name": "Mahdi Khodadadi",
+		"url": "https://pixeler.ir"
+	},
     "engines": {
         "vscode": "^1.4.0"
     },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/pixeler/Pixeler-vscode-theme/"
+	},
+    "bugs": {
+		"url": "https://github.com/pixeler/Pixeler-vscode-theme/issues"
+	},
+    "keywords": [
+		"design",
+		"color",
+		"customization",
+		"theme",
+		"ui"
+	],
     "categories": [
         "Themes"
     ],
-    "icon": "icon.svg",
+    "icon": "icon.png",
     "contributes": {
         "themes": [
             {

@@ -2,11 +2,15 @@
 ## This theme is for designers who loves coding!
 
 ---
- 
+
+### بگو بسم الله آنگه هر چه خواهی
+
 .به عنوان یک طراح و توسعه دهنده نرم افزار سالهاست که کد نویسی می کنم
-طراحی روحی است که من با کدهایی که می نویسم آن را زنده می کنم.
-قالب پیکسلر آن روح و رنگی است که مرا به لذت کد نویسی ترغیب می کند.
+کد نویسی به مانند پیکری است که من با طراحی به آن روح می دهم.
+قالب پیکسلر و رنگ هایش به من کمک می کند تا کد نویسی را فرآیندی لذت بخش بسازم.
 دوست داشتم آن را با شما به اشتراک بگذارم.
+
+## Intro 
 
 As a designer and software developer I coding for many years.
 Design spirit that I am writing code that would make it out alive.
@@ -29,13 +33,13 @@ Launch VS Code Quick Open (⌘/Ctrl)+P, paste the following command, and press e
 ---
 
 ##Screen Shot
-![dark screenshot](http://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-dark.png)
+![dark screenshot](https://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/screenshot-dark-js.png)
 > Pixeler Dark Screenshot
 
-![ocean screenshot](http://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-ocean.png)
+![ocean screenshot](https://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/screenshot-ocean-js.png)
 > Pixeler Ocean Screenshot
 
-![light screenshot](http://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-light.png)
+![light screenshot](https://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/screenshot-light-js.png)
 > Pixeler Light Screenshot
 
 **Enjoy!**
