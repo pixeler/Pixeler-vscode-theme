@@ -1,20 +1,41 @@
 # Pixeler Drak theme for Visual studio code
-## This theme base for Designer who love coding!
+## This theme is for designers who loves coding!
 
-این قالب ای است که خودم برای توسعه کد استفاده می کنم و دوست داشتم با دیگران به اشتراک بگذارم.
-اگر نظری دارید خوشحال می شوم با بنده جهت بهتر شدن کار در میان بگذارید
+---
+ 
+.به عنوان یک طراح و توسعه دهنده نرم افزار سالهاست که کد نویسی می کنم
+طراحی روحی است که من با کدهایی که می نویسم آن را زنده می کنم.
+قالب پیکسلر آن روح و رنگی است که مرا به لذت کد نویسی ترغیب می کند.
+دوست داشتم آن را با شما به اشتراک بگذارم.
 
-##Install
+As a designer and software developer I coding for many years.
+Design spirit that I am writing code that would make it out alive.
+Pixeler theme and color that spirit that encourages me to enjoy coding.
+I would like to share it with you.
 
-press `ctl/command + shift + p` to launch the command palette then run
-```
-ext install theme-pixeler
-```
+---
+## Easy installation
+
+Launch VS Code Quick Open (⌘/Ctrl)+P, paste the following command, and press enter.
+
+1. Press <kbd>cmd/ctrl</kbd> + <kbd>P</kbd> to open the command palette.
+2. Type _"ext install theme-pixeler"_ and press enter.
+
+## Activate the theme
+
+1. Go to Preferences > Color Theme
+2. Choose Pixeler Dark / Pixeler Ocean / Pixeler light
+
+---
+
 ##Screen Shot
-![dark screenshot](https://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-dark.png)
+![dark screenshot](http://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-dark.png)
+> Pixeler Dark Screenshot
 
-![ocean screenshot](https://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-ocean.png)
+![ocean screenshot](http://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-ocean.png)
+> Pixeler Ocean Screenshot
 
-![light screenshot](https://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-light.png)
+![light screenshot](http://raw.githubusercontent.com/pixeler/Pixeler-vscode-theme/master/screenshot/pixeler-light.png)
+> Pixeler Light Screenshot
 
 **Enjoy!**
